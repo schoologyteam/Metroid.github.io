@@ -16,6 +16,7 @@
  *
  */
 var games = {
+    "banjokazooiegruntysrevenge":"Banjo Kazooie",
     "pokemonglaze":"Pokemon Glazed",
     "pokemonlightplat":"Pokemon Light Platinum",
     "pokemondarkviolet":"Pokemon Dark Violet",
