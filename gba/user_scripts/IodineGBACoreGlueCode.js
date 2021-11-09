@@ -16,7 +16,6 @@
  *
  */
 var games = {
-    "banjokazooie":"Banjo Kazooie",
     "pokemonglaze":"Pokemon Glazed",
     "pokemonlightplat":"Pokemon Light Platinum",
     "pokemondarkviolet":"Pokemon Dark Violet",
@@ -24,6 +23,7 @@ var games = {
     "advancewars2":"Advance Wars 2",
     "aladdin":"Aladdin",
     "alienhominid":"Alien Hominid",
+    "banjokazooie":"Banjo Kazooie",
     "bomberman_max2blue":"Bomberman Max 2 - Blue Advance",
     "bomberman_tournament":"Bomberman Tournament",
     "bubblebobble":"Bubble Bobble",
