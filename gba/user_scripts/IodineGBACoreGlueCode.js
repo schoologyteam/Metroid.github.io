@@ -90,6 +90,7 @@ var games = {
     "sonic_advance":"Sonic Advance",
     "sonic_advance2":"Sonic Advance 2",
     "sonic_advance3":"Sonic Advance 3",
+    "sonic_the_hedgehog":"Sonic The Hedgehog",
     "sonicbattle":"Sonic Battle",
     "supermonkeyballjr":"Super Monkey Ball Jr",
     "superstar":"Mario & Luigi: Superstar Saga",
