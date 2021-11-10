@@ -36,6 +36,7 @@ var games = {
     "drilldozer":"Drill Dozer",
     "earthwormjim":"Earthworm Jim",
     "earthwormjim2":"Earthworm Jim 2",
+    "fairlyoddparents":"Fairly Odd Parents- Enter the Cleft",
     "ff1and2":"Final Fantasy 1 & 2 Advance",
     "ff4S":"Final Fantasy IV Advance (Sound Restoration Mod)",
     "ff6":"Final Fantasy VI Advance",
