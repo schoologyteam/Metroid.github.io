@@ -27,6 +27,7 @@ var games = {
     "bomberman_max2blue":"Bomberman Max 2 - Blue Advance",
     "bomberman_tournament":"Bomberman Tournament",
     "bubblebobble":"Bubble Bobble",
+    "castlevania_moon":"Castlevania Circle of the Moon",
     "crashbandicoot":"Crash Bandicoot Collection",
     "croket1":"Croket! - Yume no Banker Survival!",
     "croket2":"Croket! 2 - Yami no Bank to Banqueen",
