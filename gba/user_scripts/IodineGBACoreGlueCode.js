@@ -47,6 +47,7 @@ var games = {
     "fzero_gp":"F-Zero - GP Legend",
     "fzero_max":"F-Zero - Maximum Velocity",
     "gamewatch4":"Game & Watch Gallery 4",
+    "gbacraft":"GBA Minecraft",
     "goldensun":"Golden Sun",
     "gunstar_super_heroes":"Gunstar Super Heroes",
     "hamtaro_heartbreak":"Hamtaro - Ham-Ham Heartbreak",
