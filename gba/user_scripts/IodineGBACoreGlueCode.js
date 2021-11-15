@@ -57,6 +57,7 @@ var games = {
     "kirbymirror":"Kirby & The Amazing Mirror",
     "kirbynightmare":"Kirby: Nightmare in Dreamland",
     "legendzelda":"The Legend of Zelda",
+    "liquidcrystal":"Liquid Crystal",
     "mariobros":"Super Mario Bros",
     "mariokart":"Mario Kart: Super Circuit",
     "marioparty":"Mario Party Advance",
