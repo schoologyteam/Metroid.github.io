@@ -16,7 +16,6 @@
  *
  */
 var games = {
-  
     "metroid_fusion":"Metroid Fusion",
     
 };
